@@ -1,0 +1,25 @@
+{
+  "name": "php_ordenar",
+  "version": "1.0.0",
+  "description": "Estudo de ordenação em PHP",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgeronimo/php_ordenar.git"
+  },
+  "keywords": [
+    "ordenação",
+    "php",
+    "projeto",
+    "ordenar"
+  ],
+  "author": "Rafael Gerônimo",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rafaelgeronimo/php_ordenar/issues"
+  },
+  "homepage": "https://github.com/rafaelgeronimo/php_ordenar#readme"
+}
